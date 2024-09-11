@@ -1,2 +1,2 @@
 # Demo_Git
-This is demo repository for Git
+This is demo repository for Git.
